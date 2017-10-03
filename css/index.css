@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 3px;
+}
+.displaySort tr{
+  height: 7px;
+  font-weight: bold;
+}
+.sortedLabel{
+	font-size: 12pt;
+}
+.padder{
+	width:5px;
+	background: #444;
+}

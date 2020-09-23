@@ -1,3 +1,6 @@
+/**
+ * The HSL (Hue, saturation, lightness) value is determined by the length of the bars 
+ */
 function getColor(value, minValue, maxValue){
 	let s = 100;
 	let l = 45;
